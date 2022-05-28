@@ -4,8 +4,8 @@ I'm Vu and I'm learning to be an AI Engineer.
 
 📫 How to reach me: htrvu.ai@gmail.com
 
-![](https://github.com/htrvu/github-stats/master/generated/overview.svg)
-![](https://github.com/htrvu/github-stats/master/generated/languages.svg)
+![](https://github.com/htrvu/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/htrvu/github-stats/blob/master/generated/languages.svg)
 
 <!--
 - 🔭 I’m currently working on ...
