@@ -6,8 +6,8 @@ I'm Vu and I'm learning to be an AI Engineer.
 
 **My statistics:**
 <p align="center">
-![](https://github.com/htrvu/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/htrvu/github-stats/blob/master/generated/languages.svg)
+  <img src="https://github.com/htrvu/github-stats/blob/master/generated/overview.svg" />
+  <img src="https://github.com/htrvu/github-stats/blob/master/generated/overview.svg" />
 </p>
 
 
