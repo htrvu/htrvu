@@ -7,7 +7,7 @@ I'm Vu and I'm learning to be an AI Engineer.
 **My statistics:**
 <p align="center">
   <img src="https://github.com/htrvu/github-stats/blob/master/generated/overview.svg" />
-  <img src="https://github.com/htrvu/github-stats/blob/master/generated/language.svg" />
+  <img src="https://github.com/htrvu/github-stats/blob/master/generated/languages.svg" />
 </p>
 
 
