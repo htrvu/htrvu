@@ -2,7 +2,7 @@
 
 My name is Vu and I'm currently a third-year student at VNUHCM - University of Science.
 
-I'm interested in AI, Machine Learning and Deep Learning.
+I'm interested in Mathematics, Machine Learning and Deep Learning.
 
 📫 How to reach me: htrvu.ai@gmail.com
 
