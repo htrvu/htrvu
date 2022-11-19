@@ -8,14 +8,15 @@ I'm interested in Mathematics, Machine Learning and Deep Learning.
 
 **My statistics:**
 
-![htrvu's GitHub stats](https://github-readme-stats.vercel.app/api?username=htrvu&show_icons=true&theme=default&count_private=true)
+<!-- ![htrvu's GitHub stats](https://github-readme-stats.vercel.app/api?username=htrvu&show_icons=true&theme=default&count_private=true) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htrvu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!-- 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htrvu&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <p align="center">
-  <img src="https://github.com/htrvu/github-stats/blob/master/generated/overview.svg" />
-  <img src="https://github.com/htrvu/github-stats/blob/master/generated/languages.svg" />
-</p> -->
+<!--   <img src="https://github.com/htrvu/github-stats/blob/master/generated/overview.svg" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=htrvu&show_icons=true&theme=default&count_private=true" />
+  <img src="https://github.com/htrvu/github-stats/blob/master/generated/languages.svg" />  
+</p>
 
 
 <!--
