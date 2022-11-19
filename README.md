@@ -7,6 +7,9 @@ I'm interested in Mathematics, Machine Learning and Deep Learning.
 📫 How to reach me: htrvu.ai@gmail.com
 
 **My statistics:**
+
+![htrvu's GitHub stats](https://github-readme-stats.vercel.app/api?username=htrvu&show_icons=true&theme=transparent&count_private=true)
+
 <p align="center">
   <img src="https://github.com/htrvu/github-stats/blob/master/generated/overview.svg" />
   <img src="https://github.com/htrvu/github-stats/blob/master/generated/languages.svg" />
