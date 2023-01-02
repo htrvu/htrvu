@@ -13,7 +13,7 @@ I'm interested in Mathematics, Machine Learning and Deep Learning.
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htrvu&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=htrvu&show_icons=true&theme=default&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=htrvu&show_icons=true&theme=default&count_private=true&include_all_commits=false" />
   <p align="center">
     <img src="https://github.com/htrvu/github-stats/blob/master/generated/overview.svg" />
     <img height="100%" src="https://github.com/htrvu/github-stats/blob/master/generated/languages.svg" />  
