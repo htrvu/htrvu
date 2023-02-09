@@ -4,6 +4,8 @@ My name is Vu and I'm currently a third-year student at VNUHCM - University of S
 
 I'm interested in Mathematics, Machine Learning and Deep Learning.
 
+🌱 Visit my blog: [htrvu.github.io](https://htrvu.github.io/)
+
 📫 How to reach me: htrvu.ai@gmail.com
 
 **My statistics:**
