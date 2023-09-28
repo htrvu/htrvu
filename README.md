@@ -6,7 +6,7 @@ I'm interested in Machine Learning and Deep Learning for **Computer Vision**.
 
 🌱 Visit my blog: [htrvu.github.io](https://htrvu.github.io/)
 
-📫 How to reach me: htrvu.ai@gmail.com
+📫 How to reach me: htvu@selab.hcmus.edu.vn
 
 **My statistics:**
 
