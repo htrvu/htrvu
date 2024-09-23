@@ -1,8 +1,6 @@
 ### Hi there 👋 
 
-My name is Vu and I'm currently a student at VNUHCM - University of Science.
-
-I'm interested in Machine Learning, Deep Learning for Computer Vision, and Generative AI based on Diffusion Models
+My name is Vu. I'm interested in Machine Learning, Deep Learning for Computer Vision, and Generative AI based on Diffusion Models
 
 🌱 Visit my blog: [htrvu.github.io](https://htrvu.github.io/)
 
