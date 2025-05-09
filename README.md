@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-My name is Vu. I'm interested in Machine Learning, Deep Learning for Computer Vision, and Generative AI based on Diffusion Models
+My name is Vu. I'm interested in Deep Learning for Computer Vision and Model Optimization.
 
 🌱 Visit my blog: [htrvu.github.io](https://htrvu.github.io/)
 
